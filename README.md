@@ -14,7 +14,7 @@ code .
 ```
 Define an object and store it in a variable named piggyBank. The object should have the following keys defined.
 
-* li quarters
+* quarters
 * nickels
 * dimes
 * pennies
